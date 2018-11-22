@@ -5,7 +5,8 @@ A small playground to test kotlin with Spring Boot
 # Runnning wit maven
 mvn spring-boot:run
 
-Open RestFul link :
+Open Swagger link :
+
 http://localhost:8080/library/swagger-ui.html
 
 # Unsing
